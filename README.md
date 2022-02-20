@@ -1,5 +1,14 @@
 # Bitcoin Donation Portal
 
+
+-------------------------
+### Run Google-Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
+
 ## Support bitcoin developers so they can focus on building our future
 
 [The website](https://bitcoindevlist.com/) lists people working on Bitcoin and related projects.
